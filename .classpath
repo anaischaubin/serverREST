@@ -2,5 +2,82 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/javax.ws.rs-api-2.0.jar/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (3)/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (3)/jersey-server-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (3)/jersey-servlet-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (3)/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/alpn-api-1.1.3.v20160715.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/infinispan-common-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/infinispan-embedded-query-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/infinispan-remote-query-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-alpn-conscrypt-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-alpn-java-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-alpn-openjdk8-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-alpn-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-annotations-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-cdi-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-continuation-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-deploy-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-gcloud-session-manager-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-hazelcast-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-http-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-io-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-jaas-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-jaspi-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-jmx-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-jndi-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-memcached-sessions-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-nosql-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-openid-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-plus-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-proxy-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-quickstart-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-rewrite-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-schemas-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-security-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-servlet-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-servlets-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-unixsocket-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-util-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-util-ajax-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-webapp-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jetty-xml-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/javax.websocket-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/javax-websocket-client-impl-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/javax-websocket-server-impl-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/websocket-api-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/websocket-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/websocket-common-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/websocket-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/websocket/websocket-servlet-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/transactions/javax.transaction-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/spring/jetty-spring-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/setuid/jetty-setuid-java-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/mail/javax.mail.glassfish-1.4.1.v201005082020.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/jaspi/javax.security.auth.message-1.0.0.v201108011116.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/http2/http2-common-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/http2/http2-hpack-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/http2/http2-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/fcgi/fcgi-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/fcgi/fcgi-server-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/apache-jstl/org.apache.taglibs.taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/apache-jstl/org.apache.taglibs.taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/apache-jsp/org.eclipse.jdt.ecj-3.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/apache-jsp/org.eclipse.jetty.apache-jsp-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/apache-jsp/org.mortbay.jasper.apache-el-8.5.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/apache-jsp/org.mortbay.jasper.apache-jsp-8.5.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/annotations/asm-7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/annotations/asm-analysis-7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/annotations/asm-commons-7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/annotations/asm-tree-7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jetty-distribution-9.4.27.v20200227/jetty-distribution-9.4.27.v20200227/lib/annotations/javax.annotation-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jersey-server-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (1)/jersey-client-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (1)/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A. Chaubin/eclipse-workspace/jar_files (1)/jsr311-api-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
